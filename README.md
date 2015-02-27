@@ -1,4 +1,4 @@
-# Poney
+﻿# Poney
 Projet B1 Poneys
 
 Vous étiez où pendant la deuxième heure ?!
@@ -11,4 +11,10 @@ Projet de réalisation de pages Web pour Haut de Garonne (page d'acceuil / Recap
 
 /!\ En construction /!\
 
-Test Conflit
+
+Test Conflit 
+=======
+
+test Commit Masson Guillaume.
+test Commit Yung Baptiste
+
