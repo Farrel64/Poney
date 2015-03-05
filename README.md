@@ -1,4 +1,4 @@
-# Poney
+﻿# Poney
 Projet B1 Poneys
 
 Membres : Guillaume Masson / Baptiste Yung / Thomas Morgana
@@ -9,6 +9,6 @@ Projet de réalisation de pages Web pour Haut de Garonne (page d'acceuil / Recap
 
 /!\ En construction /!\
 
-test Commit Masson Guillaume.
 
+test Commit Masson Guillaume.
 test Commit Yung Baptiste.
