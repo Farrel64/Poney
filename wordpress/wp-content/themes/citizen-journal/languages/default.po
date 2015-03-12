@@ -1,0 +1,126 @@
+# Copyright (C) 2010 Toolbox
+# This file is distributed under the same license as the Toolbox package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wpthemes.co.nz\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/toolbox\n"
+"POT-Creation-Date: 2013-01-16 20:14+0800\n"
+"PO-Revision-Date: 2013-01-16 20:15+0800\n"
+"Last-Translator: ed cardinal <lizardking67@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\citizenjournal\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/404.php:9
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/404.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/404.php:20
+msgid "Most Used Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/archive.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/archive.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/author.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/category.php:44
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/index.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/search.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/tag.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/archive.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/author.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/category.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/index.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/tag.php:51
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/footer.php:6
+msgid "- Powered by "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/footer.php:6
+msgid "Wordpress"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/footer.php:7
+msgid " and "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/footer.php:7
+msgid "WP Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/functions.php:190
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/functions.php:226
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/functions.php:239
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/header.php:25
+msgid "Main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/image.php:88
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/image.php:90
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/search.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\citizenjournal/sidebar.php:18
+msgid "Meta"
+msgstr ""

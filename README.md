@@ -16,6 +16,10 @@ Test Conflit
 
 test Commit Masson Guillaume.
 test Commit Yung Baptiste
+<<<<<<< HEAD
 
 =======
 >>>>>>> parent of 7b610bd... edit README.md
+=======
+et voila 
+>>>>>>> origin/pull_request
