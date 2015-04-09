@@ -78,8 +78,17 @@ $table_prefix  = 'wp_';
  * développement.
  */ 
 define('WP_DEBUG', false); 
+/* Multisite */
+define('WP_ALLOW_MULTISITE', true);
 
 /* C'est tout, ne touchez pas à ce qui suit ! Bon blogging ! */
+define('MULTISITE', true);
+define('SUBDOMAIN_INSTALL', true);
+define('DOMAIN_CURRENT_SITE', 'poney.dev');
+define('PATH_CURRENT_SITE', '/');
+define('SITE_ID_CURRENT_SITE', 1);
+define('BLOG_ID_CURRENT_SITE', 1);
+
 
 /** Chemin absolu vers le dossier de WordPress. */
 if ( !defined('ABSPATH') )
